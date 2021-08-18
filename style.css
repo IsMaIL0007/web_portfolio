@@ -1,31 +1,31 @@
 body{
 
-    font-family: 'Anton', sans-serif;
-    font-family: 'Arimo', sans-serif;
-
+    font-family: 'Poppins', sans-serif;
 }
 
-.top_part{
+h1{
+    font-size: 50px;
+    
+}
+
+.name_high{
+    
+    color:rgb(179, 212, 28) ;
+}
+
+.half_part{
 
     width: 40%;
     float: left;
+    margin-left: 2%;
+    padding: 4%;
+
 }
-
-.top_part img{
-
+.half_part img{
     width: 100%;
+    padding-top: 15%;
 }
-#name{
-    color: coral;
-}
-
-.button{
-
-    width: 40px;
-    height: 20px;
-    background-color:darksalmon;
-    border-radius: 5px;
-    color: white;
-    text-decoration: none;
-    
+.top_banner{
+    background-image: url(img/top-banner.png);
+    height: 50px;
 }
