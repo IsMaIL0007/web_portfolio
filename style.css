@@ -1,0 +1,31 @@
+body{
+
+    font-family: 'Anton', sans-serif;
+    font-family: 'Arimo', sans-serif;
+
+}
+
+.top_part{
+
+    width: 40%;
+    float: left;
+}
+
+.top_part img{
+
+    width: 100%;
+}
+#name{
+    color: coral;
+}
+
+.button{
+
+    width: 40px;
+    height: 20px;
+    background-color:darksalmon;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    
+}
