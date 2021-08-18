@@ -1,5 +1,5 @@
 body{
-
+    margin: 0px;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -27,5 +27,6 @@ h1{
 }
 .top_banner{
     background-image: url(img/top-banner.png);
-    height: 50px;
+    height: 500px;
+    background-repeat: no-repeat;
 }
