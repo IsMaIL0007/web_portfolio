@@ -62,3 +62,16 @@ section{
     border: firebrick solid 20px;
 
 }
+
+.exp_part{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 250px;
+}
+.last_sec{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
